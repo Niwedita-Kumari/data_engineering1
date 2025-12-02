@@ -4,6 +4,7 @@
 ### Project Overview
 This project ingests sales outlet data stored in an Azure SQL Database, performs data transformation and cleansing using Azure Databricks, and finally stores the processed data in Azure Data Lake Storage (ADLS) in CSV format for business analytics use.
 
+![Example Image](https://github.com/Niwedita-Kumari/data_engineering1/blob/main/DATA_TRANSFER.png)
 ### Key Steps
 1. Connect to Azure SQL Database: Use Azure Databricks to establish a secure connection to the Azure SQL DB containing sales outlet data.
 
