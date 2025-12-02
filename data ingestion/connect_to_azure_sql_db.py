@@ -7,4 +7,4 @@ df = spark.read.format("jdbc") \
     .option("password", "{password}") \
     .load()
 
-df.show()
+display(df)
