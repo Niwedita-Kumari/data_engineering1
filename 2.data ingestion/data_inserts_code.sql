@@ -1,3 +1,4 @@
+---sql code to create a table for the data inputs and insert the values in the table
 
 CREATE TABLE [dbo].[outlet](
 	[Item_Identifier] [nvarchar](50) NOT NULL,
