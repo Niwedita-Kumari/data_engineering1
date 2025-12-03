@@ -1,4 +1,4 @@
-# AZURE + SPARK + DATABRICKS
+# AZURE + PYSPARK + DATABRICKS
 
 ## Azure Databricks Sales Outlet Data Transformation Project
 ### Project Overview
