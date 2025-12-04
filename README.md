@@ -37,4 +37,8 @@ This project ingests sales outlet data stored in an Azure SQL Database, performs
 + PySpark for data processing
 
 ### Conclusion
-This setup enables a scalable, cloud-native pipeline for preparing sales data, making it readily available for business analytics in the desired CSV format.
+This setup enables a scalable, cloud-native pipeline for preparing sales data, making it readily available for business analytics in the desired CSV format. By following these steps and utilizing the provided tools and scripts, you can successfully implement and test the end-to-end Azure Data Engineering project.
+
+### Support
++ Feel free to reach out for any further assistance or clarification regarding the project setup and implementation. Email at niwedita78@gmail.com
++ Happy data engineering!
